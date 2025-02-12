@@ -15,3 +15,12 @@ Number of items	100 - 150
 Item format	Multiple choice and advanced innovative items
 Passing grade	700 out of 1000 points
 
+Chapter 1 - Security Governance Through Principles and Policies
+
+Security 101
+- Security is essential because it helps to ensure that an organization can continue to exist and operate despite any attempts to steal its data or compromise its physical or logical elements.
+- IT and security are different.
+- Security is the business management tool that ensures the reliable and protected operation of IT/IS. Security exists to support the organization's objectives, mission, and goals.
+- Three common types of security evaluation:
+-   Risk Assessment: identifying assets, threats, and vulnerabilites to calculate risk.
+-   Vulnerability Assessment:
